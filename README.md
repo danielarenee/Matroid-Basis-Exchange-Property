@@ -1,6 +1,6 @@
 # Matroid Basis Exchange Property
 
-This project implements an edge exchange algorithm between spanning trees of a graph — a concept rooted in matroid theory. Specifically, it illustrates the basis exchange property of the graphic matroid, where:
+This project implements an edge exchange algorithm between spanning trees of a graph, a concept rooted in matroid theory. Specifically, it illustrates the basis exchange property of the graphic matroid, where:
 
 " Given two spanning trees 𝐴 and 𝐵, for any edge 𝑎 ∈ 𝐴∖𝐵, there exists an edge 𝑏 ∈ 𝐵∖𝐴 such that (𝐴 − {𝑎}) ∪ {𝑏} is also a spanning tree "
 
